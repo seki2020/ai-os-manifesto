@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Discord](https://img.shields.io/badge/chat-discord-7289da)](https://discord.gg/yourlink)
-[![Twitter](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://x.com/hiTony270461)  
+[![Twitter](https://img.shields.io/twitter/follow/hiTony270461?style=social)](https://x.com/hiTony270461)  
 
 **AI OS is not an operating system, but the idea of one—a new computing paradigm built for intelligence.**
 
